@@ -1,6 +1,6 @@
 {
   "name": "@schema-forms-data/react",
-  "version": "4.0.8",
+  "version": "4.0.9",
   "description": "All-in-one re-export: @schema-forms-data/core + templates + renderer + builder",
   "license": "MIT",
   "author": "SchemaForms",
