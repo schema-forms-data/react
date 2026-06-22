@@ -53,10 +53,10 @@
     "prepublishOnly": "pnpm run clean && pnpm run build"
   },
   "dependencies": {
-    "@schema-forms-data/builder": "4.0.11",
-    "@schema-forms-data/core": "4.0.11",
-    "@schema-forms-data/renderer": "4.0.11",
-    "@schema-forms-data/templates": "4.0.11"
+    "@schema-forms-data/builder": "4.0.13",
+    "@schema-forms-data/core": "4.0.12",
+    "@schema-forms-data/renderer": "4.0.13",
+    "@schema-forms-data/templates": "4.0.13"
   },
   "peerDependencies": {
     "lucide-react": "0.400.0",
